@@ -1,1 +1,1 @@
-float massimo  (int  , float[]    );
+float massimo  (int  , float[]);
