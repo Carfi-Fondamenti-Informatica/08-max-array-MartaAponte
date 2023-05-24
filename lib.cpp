@@ -8,7 +8,6 @@ float massimo  (int dim , float max[]){
         if ( max [j]> m ){
 
             m = max[j];
-
         }
     }
     return m;
